@@ -11,3 +11,6 @@ Steps：
 2. copy the public number to public number field in cable modem configuration.
 3. make cable modem online using the new configuration file again.
 4. the app will get device information using SNMPv3.
+
+Notice:
+please change 10.10.120.53 to real cable modem IP address.
